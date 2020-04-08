@@ -4,7 +4,7 @@
 package main.java.com.staticmethod;
 
 /**
- * @author rk250449
+ * @author rk
  *
  */
 public interface SamsungPhone {

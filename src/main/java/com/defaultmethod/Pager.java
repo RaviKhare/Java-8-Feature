@@ -4,7 +4,7 @@
 package main.java.com.defaultmethod;
 
 /**
- * @author rk250449
+ * @author rk
  *
  */
 public class Pager {

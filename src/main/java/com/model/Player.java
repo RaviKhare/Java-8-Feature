@@ -4,7 +4,7 @@
 package main.java.com.model;
 
 /**
- * @author rk250449
+ * @author rk
  *
  */
 public class Player {

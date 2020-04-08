@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 import main.java.com.model.ProductDetails;
 
 /**
- * @author rk250449
+ * @author rk
  *
  */
 public class StreamMapDemo  {
@@ -55,11 +55,6 @@ public class StreamMapDemo  {
 				.reduce(0, (a, b) -> {
 					return a+b;
 				});
-		
-		   
-	
-		 	
-		
 	}
 
 

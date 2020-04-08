@@ -4,7 +4,7 @@
 package main.java.com.lambda.with.functionalinterface;
 
 /**
- * @author rk250449
+ * @author rk
  *
  */
 @FunctionalInterface

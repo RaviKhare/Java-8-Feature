@@ -10,7 +10,7 @@ import main.java.com.dao.StreamDAOImpl;
 import main.java.com.model.Player;
 
 /**
- * @author rk250449
+ * @author rk
  *
  */
 public class StreamServiceImpl {

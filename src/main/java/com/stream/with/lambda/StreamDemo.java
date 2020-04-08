@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 import main.java.com.service.StreamServiceImpl;
 
 /**
- * @author rk250449
+ * @author rk
  *
  */
 public class StreamDemo  {

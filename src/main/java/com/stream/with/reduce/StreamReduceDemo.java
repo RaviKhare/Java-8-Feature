@@ -9,7 +9,7 @@ import java.util.OptionalDouble;
 import main.java.com.model.ProductDetails;
 
 /**
- * @author rk250449
+ * @author rk
  *
  */
 public class StreamReduceDemo  {
